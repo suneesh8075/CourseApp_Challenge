@@ -1,0 +1,189 @@
+[{
+    "courseId": 1,
+    "courseName": "Algebra I",
+    "courseDuration": 2,
+    "courseCategory": "Mathematics",
+    "courseTopics": [
+        "Linear equations",
+        "Inequalities",
+        "Functions",
+        "Graphing",
+        "Polynomials"
+    ],
+    "courseSummary": "This course introduces basic algebraic concepts, including linear equations, inequalities, functions, and graphing. Students will learn how to solve equations and understand the relationships between algebraic expressions.",
+    "courseEnrolledUsers": 23,
+    "courseLikedUsers": 22,
+    "courseInstructor": "Adam Clay",
+    "courseVideoURL": "",
+    "courseVideoURLThumbnail": ""
+},
+    {
+        "courseId": 2,
+        "courseName": "Basic Biology",
+        "courseDuration": 9,
+        "courseCategory": "Biology",
+        "courseTopics": [
+            "Cell structure",
+            "genetics",
+            "evolution",
+            "ecosystems",
+            "classification"
+        ],
+        "courseSummary": "Explore the fundamental concepts of biology, from the structure of cells to the evolution of species. This course includes virtual lab experiments and interactive quizzes to enhance understanding of biological processes.",
+        "courseEnrolledUsers": 30,
+        "courseLikedUsers": 27,
+        "courseInstructor": "Billy Sam",
+        "courseVideoURL": "",
+        "courseVideoURLThumbnail": ""
+    },
+    {
+        "courseId": 3,
+        "courseName": "World History",
+        "courseDuration": 4,
+        "courseCategory": "History",
+        "courseTopics": [
+            "Ancient civilizations",
+            "Middle Ages",
+            "Renaissance",
+            "world wars", 
+            "modern history"
+        ],
+        "courseSummary": "Journey through history to discover key events and movements that shaped the world. Students will learn about ancient empires, cultural revolutions, and modern global events through multimedia content and interactive timelines.",
+        "courseEnrolledUsers": 8,
+        "courseLikedUsers": 5,
+        "courseInstructor": "Mary Bill",
+        "courseVideoURL": "",
+        "courseVideoURLThumbnail": ""
+    },
+    {
+        "courseId": 4,
+        "courseName": "English Literature",
+        "courseDuration": 2,
+        "courseCategory": "Language",
+        "courseTopics": [
+            "Classic novels",
+            "poetry",
+            "drama",
+            "literary analysis",
+            "critical thinking"
+        ],
+        "courseSummary": "Dive into English literature with a focus on classic novels, poetry, and drama. Students will analyze literary works and develop critical thinking skills through discussions and written assignments.",
+        "courseEnrolledUsers": 25,
+        "courseLikedUsers": 14,
+        "courseInstructor": "John Samuel",
+        "courseVideoURL": "",
+        "courseVideoURLThumbnail": ""
+    },
+    {
+        "courseId": 5,
+        "courseName": "Advanced Physics",
+        "courseDuration": 5,
+        "courseCategory": "Physics",
+        "courseTopics": [
+            "Motion",
+            "forces",
+            "energy",
+            "waves",
+            "electromagnetism"
+        ],
+        "courseSummary": "Learn the basic principles of physics, including Newton's laws, energy conservation, and electromagnetism. The course offers virtual experiments and simulations to demonstrate key concepts in a visual and interactive manner.",
+        "courseEnrolledUsers": 24,
+        "courseLikedUsers": 20,
+        "courseInstructor": "Arun Vijay",
+        "courseVideoURL": "",
+        "courseVideoURLThumbnail": ""
+    },
+    {
+        "courseId": 6,
+        "courseName": "Geometry",
+        "courseDuration": 7,
+        "courseCategory": "Mathematics",
+        "courseTopics": [
+            "Shapes",
+            "angles",
+            "theorems",
+            "proofs",
+            "coordinate geometry"
+        ],
+        "courseSummary": "Understand the world of geometry through shapes, angles, and theorems. This course encourages problem-solving and logical reasoning, with a strong emphasis on proofs and real-world applications.",
+        "courseEnrolledUsers": 18,
+        "courseLikedUsers": 12,
+        "courseInstructor": "Adam Clay",
+        "courseVideoURL": "",
+        "courseVideoURLThumbnail": ""
+    },
+    {
+        "courseId": 7,
+        "courseName": "Computer Science Basics",
+        "courseDuration": 3,
+        "courseCategory": "IT",
+        "courseTopics": [
+            "Algorithms",
+            "data structures",
+            "programming languages",
+            "basic coding"
+        ],
+        "courseSummary": "Get introduced to computer science with a focus on algorithms, data structures, and coding. This course uses hands-on coding exercises to help students build simple programs and understand the logic behind computer science.",
+        "courseEnrolledUsers": 50,
+        "courseLikedUsers": 45,
+        "courseInstructor": "Adam Clay",
+        "courseVideoURL": "",
+        "courseVideoURLThumbnail": ""
+    },
+    {
+        "courseId": 8,
+        "courseName": "Computer Hard ware",
+        "courseDuration": 12,
+        "courseCategory": "IT",
+        "courseTopics": [
+            "Algorithms",
+            "data structures",
+            "programming languages",
+            "basic coding"
+        ],
+        "courseSummary": "Get introduced to computer science with a focus on algorithms, data structures, and coding. This course uses hands-on coding exercises to help students build simple programs and understand the logic behind computer science.",
+        "courseEnrolledUsers": 32,
+        "courseLikedUsers": 30,
+        "courseInstructor": "Adam Clay",
+        "courseVideoURL": "",
+        "courseVideoURLThumbnail": ""
+    },
+    {
+        "courseId": 9,
+        "courseName": "Atomic Physics",
+        "courseDuration": 5,
+        "courseCategory": "Physics",
+        "courseTopics": [
+            "Motion",
+            "forces",
+            "energy",
+            "waves",
+            "electromagnetism"
+        ],
+        "courseSummary": "Learn the basic principles of physics, including Newton's laws, energy conservation, and electromagnetism. The course offers virtual experiments and simulations to demonstrate key concepts in a visual and interactive manner.",
+        "courseEnrolledUsers": 24,
+        "courseLikedUsers": 20,
+        "courseInstructor": "Arun Vijay",
+        "courseVideoURL": "",
+        "courseVideoURLThumbnail": ""
+    },
+    {
+        "courseId": 10,
+        "courseName": "Calculus",
+        "courseDuration": 5,
+        "courseCategory": "Mathematics",
+        "courseTopics": [
+            "Limits",
+            "derivatives",
+            "integrals",
+            "applications of calculus"
+        ],
+        "courseSummary": "Delve into the world of calculus, covering limits, derivatives, and integrals. This course emphasizes real-world applications, showing how calculus is used in physics, engineering, and economics. Interactive problem-solving exercises are included to reinforce learning",
+        "courseEnrolledUsers": 24,
+        "courseLikedUsers": 20,
+        "courseInstructor": "Arun Vijay",
+        "courseVideoURL": "",
+        "courseVideoURLThumbnail": ""
+    }
+]
+ 
